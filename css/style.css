@@ -1,3 +1,38 @@
 body {
     font-family: Roboto;
+    color: #2E2F42;
+    background-color: #E7E9FC ;
+    font-size: ; 
+}
+
+main > p {
+    color:#434455;
+}
+
+.link {
+    color:#2E2F42;
+}
+
+.link-ad {
+    color: #434455;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+.sol {
+    background-color: #2E2F42;
+}
+
+button {
+    background-color: #4D5AE5;
+}
+
+.button-name {
+    color: #FFFFFF;
+}
+
+.team {
+    background-color: #F4F4FD;
 }
