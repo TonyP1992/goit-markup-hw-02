@@ -97,8 +97,7 @@ button:hover {
 }
 
 /* Section2 */
-.strategy,
-h3 {
+.benefits {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -106,8 +105,7 @@ h3 {
         color: #2e2f42;
 }
 
-.strategy-p,
-p
+.benefits-p
  {
         font-weight: 400;
         font-size: 16px;
