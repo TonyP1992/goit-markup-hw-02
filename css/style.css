@@ -76,10 +76,6 @@ a {
 
 /* button */
 
-button {
-        background-color: #4d5ae5;
-            
-}
 button:focus {
     background-color: #404bbf;
 }
@@ -95,6 +91,7 @@ button:hover {
         letter-spacing: 0.04em;
         color: #fff;
         cursor: pointer;
+        background-color: #4d5ae5;
         
 }
 
