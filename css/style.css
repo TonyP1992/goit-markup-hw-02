@@ -59,7 +59,7 @@ a {
 .page-footer {
     background-color: #2e2f42;
 }
-/* Hero */
+/* Section1 */
 .hero {
     background-color: #2e2f42;
 }
@@ -95,8 +95,8 @@ button:hover {
         
 }
 
-/* Section1 */
-h3 {
+/* Section2 */
+.strategy {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -104,7 +104,7 @@ h3 {
         color: #2e2f42;
 }
 
-p {
+.strategy-p {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
