@@ -96,7 +96,10 @@ button:hover {
 }
 
 /* Section2 */
-.strategy {
+.strategy,
+.diligence,
+.technologies,
+.punctuality {
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -104,7 +107,11 @@ button:hover {
         color: #2e2f42;
 }
 
-.strategy-p {
+.strategy-p,
+.punctuality-p,
+.diligence-p,
+.technologies-p
+ {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
